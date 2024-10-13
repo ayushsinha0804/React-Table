@@ -985,4 +985,14 @@
         "price": 60.99,
         "sale_price": 48.95
     }
+    {
+        "id": 101,
+        "name": "Hotel Management"
+        "category":"Travel"
+        "subcategory": "Adventure"
+        "createdAt": "2011-04-11T17:32:36.494+05:30",
+        "updatedAt": "2016-02-11T17:34:36.494+05:30",
+        "price": 42.99,
+        "sale_price": 55.95
+    }
 ]
